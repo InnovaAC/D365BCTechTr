@@ -2,22 +2,25 @@
   "id": "0f58cee4-f580-4e78-a6dd-712442862dd6",
   "name": "git_training",
   "publisher": "Default publisher",
+  "version": "1.0.0.0",
   "brief": "",
   "description": "",
-  "version": "1.0.0.0",
-  "compatibilityId": "1.0.0.0",
   "privacyStatement": "",
   "EULA": "",
   "help": "",
   "url": "",
   "logo": "",
-  "capabilities": [],
   "dependencies": [],
   "screenshots": [],
-  "platform": "11.0.0.0",
-  "application": "11.0.0.0",
-  "idRange": {
-    "from": 50100,
-    "to": 50149
-  }
+  "platform": "14.0.0.0",
+  "application": "14.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://MyFirstApp.com/help/",
+  "showMyCode": true,
+  "runtime": "3.0"
 }
